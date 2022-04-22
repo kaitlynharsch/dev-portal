@@ -1,0 +1,17 @@
+/* TEAM */
+  Web designer: Kaitlyn Harsch
+	Instagram: @kaitlyn_harsch
+	From: Vail, Colorado, USA
+
+/* THANKS */
+
+	My Great Professors:
+  David Schaal - Creative Web Development Professor
+  Casey Hunt - Web Professor
+
+
+/* SITE */
+	Last update: 04/13/2022
+	Language: English
+	Doctype: HTML5
+	IDE: Atom, Text, Photoshop, Illustrator
